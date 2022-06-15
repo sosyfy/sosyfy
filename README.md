@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **backend web development**
 
-- 🌱 I’m currently learning **Java and Python**
-
 - 👯 I’m looking to collaborate on **open source frontend projects**
 
 - 📫 How to reach me **sospeterkaranja02@gmail.com**
