@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" border-radius="5%" src="https://miro.medium.com/max/680/0*gqO3slLmGb4mUeje.gif"/>
 
-- 🔭 I’m currently working on **backend web development**
+- 🔭 I’m currently working on **Frontend web development**
 
 - 👯 I’m looking to collaborate on **open source frontend projects**
 
