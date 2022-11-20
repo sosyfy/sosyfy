@@ -8,7 +8,7 @@ What can I say I am awesome .
 
 *   🖥️  See my portfolio at [My Portfolio](http://focused-sos.netlify.app)
 *   ✉️  You can contact me at [sospeterkaranja02@gmail.com](mailto:sospeterkaranja02@gmail.com )
-*   🧠  I'm learning React Native
+*   🧠  I'm learning everything 
 *   🤝  I'm open to collaborating on Intresting projects
 *   ⚡  Let's create awesome ui's
 
