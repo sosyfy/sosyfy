@@ -7,8 +7,8 @@ Software Engineer
 What can I say I am awesome .
 
 *   🖥️  See my portfolio at [My Portfolio](http://focused-sos.netlify.app)
-*   ✉️  You can contact me at [sospeterkaranja02@gmail.com](mailto:sospeterkaranja02@gmail.com )
-*   🧠  I'm learning python and machine learning 
+*   ✉️  You can contact me at [mail](mailto:sospeterkaranja02@gmail.com )
+*   🧠  Loving Golang
 *   🤝  I'm open to collaborating on Intresting projects
 *   ⚡  Let's create awesome ui's
                   
